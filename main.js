@@ -45,7 +45,7 @@ console.log(typeof tosin);
 let esther = null;
 console.log(esther);
 
-//Agrrayss
+//Arrays
 let arr = [];
 
 let nameOfstudents = ["Joshua", "Tosin", "Emeka", "Musa"];
